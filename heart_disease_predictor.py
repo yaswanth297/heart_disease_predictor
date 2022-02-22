@@ -6,6 +6,7 @@
 
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
+import numpy
 
 file=pd.read_csv('C:/Users/gnbae/Downloads/heart_failure_dataset.csv')
 
